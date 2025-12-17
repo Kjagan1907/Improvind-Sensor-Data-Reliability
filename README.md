@@ -12,4 +12,8 @@ In the proposed framework, multiple MEMS-based smart sensors are installed along
 
 The talk will discuss how this approach enables simultaneous monitoring of both the structure’s condition and the sensing system’s health. Practical aspects such as feature selection, comparison thresholds, wireless communication constraints, and robustness to operational and environmental variability will be addressed. Experimental or simulated examples will be used to illustrate how faulty sensor behavior can be distinguished from genuine structural changes.
 
+<img width="649" height="280" alt="image" src="https://github.com/user-attachments/assets/5675d715-ff37-46e4-83d6-d8128657cb9a" />
+<img width="590" height="200" alt="Picture1" src="https://github.com/user-attachments/assets/d968804b-7d26-4f00-9ef1-05b95c2624c9" />
+
+
 By embedding sensor self-validation into SHM networks, the proposed method increases trust in long-term monitoring data, reduces maintenance effort, and enhances decision-making reliability. The approach is particularly suited for large-scale infrastructure monitoring, where manual sensor inspection is impractical and system-level robustness is essential.
